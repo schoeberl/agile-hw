@@ -30,7 +30,7 @@ Overall, the course will provide the students with a comprehensive understanding
  * Instructor: Martin Schoeberl
  * Email: masca@dtu.dk
  * When: Tuesdays 13:00-17:00
- * Place: 324.020
+ * Place: 412.013
 
  ## Lecture Plan
 
