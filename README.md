@@ -91,7 +91,7 @@ Overall, the course will provide the students with a comprehensive understanding
  * Lab: [lab11](lab11)
 
 
-## Group Projects
+## Group Projects 2025
 
  1. [Computer Vision for image classification](https://github.com/WAAAlex1/Agile-hw-dev-project-ComVis)
  1. [Sha-256 hasher](TBD)
@@ -102,14 +102,11 @@ Overall, the course will provide the students with a comprehensive understanding
  1. [GPU-Like Vector Processor](TBD)
  1. [FFT Core](https://github.com/lasseslips/fft-core)
 
-## Chattutor
-
- * We have a Chisel version of the [Chattutor](https://chattutor.dk/c/111/s/141/) project.
 
 ## Further Material
 
  * [The Chisel book](https://www.imm.dtu.dk/~masca/chisel-book.html)
- * [Scott's Agile Hardware Design Course](https://classes.soe.ucsc.edu/cse228a/Winter24/)
+ * [Scott's Agile Hardware Design Course](https://classes.soe.ucsc.edu/cse228a/Spring25/)
  * [Agile SW on Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)
 
  ### Papers
