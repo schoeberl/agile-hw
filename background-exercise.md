@@ -1,7 +1,7 @@
 # Binary to Binary-Coded Decimal Conversion
 
 This exercise is to check yourself where you stand in digital design.
-Submit the solution and I will give you feedback. This exercise will not be graded.
+Implement the solution and I will give you feedback. This exercise will not be graded.
 
 Implement it in any HDL you know (e.g., Chisel, VHDL, or Verilog).
 Also implement some testing (test bench).
