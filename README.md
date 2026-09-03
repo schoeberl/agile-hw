@@ -44,22 +44,22 @@ Overall, the course will provide the students with a comprehensive understanding
   * [Slides](02_chisel.pdf)
   * Labs from the Digital Electroncs 2 course: [Chisel Lab 2](https://github.com/schoeberl/chisel-lab/tree/master/lab2) and [Chisel Lab 3](https://github.com/schoeberl/chisel-lab/tree/master/lab3)
 
-### Week 3: Simple Generators
+### Week 3: Simple Generators (Kasper)
 
  * [Slides](03_simp_gen.pdf)
  * Labs: [lab4](lab4) and [lab5](lab5)
 
-### Week 4: Digital Design with Clash
-
- * Slides in DTU Learn
- * Lab: [Clash Lab on DTU Learn](https://learn.inside.dtu.dk/d2l/le/lessons/270912/topics/1074403)
-
- ### Week 5: Generators
+### Week 4: Generators
 
  * [Slides](05_generators.pdf)
  * Project presentations
 
- ### Week 6: Testing and CI
+### Week 5: Digital Design with LLMs in Industry (Ioannis)
+
+Experiences of using LLMs at Microchip.
+
+
+### Week 6: Testing and CI
 
  * [Slides](06_testing_and_ci.pdf)
  * Lab: [lab6](lab6)
