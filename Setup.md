@@ -5,7 +5,7 @@ This documents describes how to setup all tools on Linux/Ubuntu
 and on Windows.
 Here is a summary of the tools we need:
 
- * [Java JDK 8 or later](https://adoptopenjdk.net/)
+ * [Java JDK 17 or later](https://adoptopenjdk.net/)
  * [sbt](https://www.scala-sbt.org/)
  * [IntelliJ](https://www.jetbrains.com/idea/download/) (the free Community version)
  * or [Visual Studio Code](https://code.visualstudio.com/)
@@ -42,7 +42,7 @@ REPL stands for Read-Eval-Print Loop, a simple interactive programming environme
 ## Ubuntu/Linux
 
  * Install Java JDK and other tools with:
- * ```sudo apt install openjdk-8-jdk git make gtkwave```
+ * ```sudo apt install openjdk-17-jdk git make gtkwave```
  * Install sbt according to the instructions from [sbt download](https://www.scala-sbt.org/download.html)
  * Install IntelliJ and the Scala plugin with a launch shortcut in favorites
 
@@ -51,7 +51,7 @@ REPL stands for Read-Eval-Print Loop, a simple interactive programming environme
 
 ### Native Windows
 
- * Install OpenJDK 8 or later from [AdoptOpenJDK](https://adoptopenjdk.net/)
+ * Install OpenJDK 17 or later from [AdoptOpenJDK](https://adoptopenjdk.net/)
  * Install [sbt](https://www.scala-sbt.org/)
  * Install [IntelliJ](https://www.jetbrains.com/idea/download/)
    * The community edition
@@ -70,7 +70,7 @@ REPL stands for Read-Eval-Print Loop, a simple interactive programming environme
 
 ## macOS
 
- * Install OpenJDK 8 or later from [AdoptOpenJDK](https://adoptopenjdk.net/)
+ * Install OpenJDK 17 or later from [AdoptOpenJDK](https://adoptopenjdk.net/)
    - alternatively you can use [Homebrew](https://brew.sh/) to install OpenJDK or 
      [SDKMAN](https://sdkman.io/) to install the latest Java version
  * Install sbt with ```brew install sbt```
