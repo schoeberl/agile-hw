@@ -47,7 +47,7 @@ Overall, the course will provide the students with a comprehensive understanding
 ### Week 3: Simple Generators (Kasper)
 
  * [Slides](03_simp_gen.pdf)
- * Labs: [lab4](lab4) and [lab5](lab5)
+ * Labs: [lab2](lab2) and [lab3](lab3)
 
 ### Week 4: Generators
 
