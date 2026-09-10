@@ -102,6 +102,9 @@ Experiences of using LLMs at Microchip.
  1. [GPU-Like Vector Processor](TBD)
  1. [FFT Core](https://github.com/lasseslips/fft-core)
 
+## Agile Tutorial
+
+ * [Agile Hardware Design Tutorial](agile_hw.pdf) at FPL and OrConf 2026
 
 ## Further Material
 
