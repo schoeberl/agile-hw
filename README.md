@@ -94,7 +94,7 @@ Experiences of using LLMs at Microchip.
 
   * Lab: Project presentation and demo
 
-### Week 11: Spade (Frans)
+### Week 11: Spade, and Using Your Language in Agile Design (Frans)
 
   * [Slides](spade.pdf)
   * Install Spade, see [Spade Setup](https://docs.spade-lang.org/agile/quick_setup.html)
