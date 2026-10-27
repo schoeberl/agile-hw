@@ -88,11 +88,12 @@ Experiences of using LLMs at Microchip.
 
  ### Week 9: TBD
 
-  * Lab: Project presentation and demo
+  * Lab: standup presentation (3 minutes per group, no slides), project work
 
  ### Week 10: Formal Verification (Amelia)
 
-  * Lab: Project presentation and demo
+  * Lab: verification lab
+  * Standup presentation (2 minutes per group, no slides), project work
 
 ### Week 11: Spade, and Using Your Language in Agile Design (Frans)
 
