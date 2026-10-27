@@ -114,8 +114,18 @@ Experiences of using LLMs at Microchip.
 
 ## Group Projects 2026
 
- 1. TBD
- 1. TBD
+ * [Group 1: Advanced Encryption Standard encryption/decryption](https://github.com/gluetex/Agile-HW-Design-AES)
+ * [Group 2: Image Encryption Hardware Accelerator using Ascon-AEAD128](https://github.com/LordWicked/image-encryption-accelerator)
+ * [Group 3: Parameterizable Cache Generator](https://github.com/ertugrulkilic5713/Agile-Design-Project-Parameterized-Cache-Generator)
+ * [Group 4: ECC Generator](https://github.com/StefanBuzu/ecc-gen)
+ * [Group 5: Hardware-Accelerated JSON Parsing / Validation Engine](https://github.com/koch-c/chisel-json-accelerator)
+ * [Group 6: Systolic Arrays for AI acceleration](https://github.com/SystolicArraysChisel/Systolic-Arrays-Chisel)
+ * [Group 7: A Configurable Chisel Generator for Quantized Convolutional Neural Network Inference](https://github.com/Jfvind/chisel-cnn-generator)
+ * [Group 8: Hardware Minesweeper with an On-Chip Deductive Solver](https://github.com/s262007/Minesweeper-Group-Project)
+ * [Group 10: Agile FFT Project](https://github.com/Fewrick/Agile-FFT-Project)
+ * [Group 11: Hardware Chess Engine Generator on an FPGA](https://github.com/CharleezGithub/Hardware-Chess-Engine)
+ * [Group 12: Parameterizable Live Controlled Synthesizer](https://github.com/bathtuballigator/chisel-synth)
+ * [Group 14: BPU-Gen: Parameterized Branch Predictor Generator](https://github.com/Thodorhs/BPU-gen)
 
 ## Group Projects 2025
 
