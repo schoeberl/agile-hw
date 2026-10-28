@@ -1,0 +1,8 @@
+DESIGN_NAME: MaxFinder
+VERILOG_FILES:
+  - dir::MaxFinder.sv
+CLOCK_PORT: clock
+CLOCK_PERIOD: 20  # ns: 50 MHz, the same target for all three architectures
+PDK: sky130A
+STD_CELL_LIBRARY: sky130_fd_sc_hd
+SYNTH_STRATEGY: AREA 0
