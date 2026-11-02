@@ -79,7 +79,7 @@ All variants sample one vector on every rising clock edge. An input sampled at e
 
 At the fixed 50 MHz target, a timing-passing design sustains 50 million vectors/s. Pipelining does not increase throughput at the same clock; it can allow a higher clock, at the cost of registers and more cycles of latency. Use fmax to discuss that potential without claiming we ran a second clock target.
 
-Before running, predict which architecture is fastest and smallest. Then compare the clock reports, inspect one critical path, and explain the difference. See [VALIDATION.md](VALIDATION.md) for the measured teaching-machine results and `example-results/` for saved reports.
+Before running, predict which architecture is fastest and smallest. Then compare the clock reports, inspect one critical path, and explain the difference.
 
 [LibreLane timing closure documentation](https://librelane.readthedocs.io/en/latest/usage/timing_closure/index.html)
 
