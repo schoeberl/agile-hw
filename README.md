@@ -86,7 +86,7 @@ Experiences of using LLMs at Microchip.
 
   * Including presentation of a MVP
 
- ### Week 9: TBD
+ ### Week 9: Generators for Design Space Exploration
 
   * Lab: standup presentation (3 minutes per group, no slides), project work
 
@@ -99,7 +99,7 @@ Experiences of using LLMs at Microchip.
 
   * [Slides](spade.pdf)
   * Install Spade, see [Spade Setup](https://docs.spade-lang.org/agile/quick_setup.html)
-  * Lab: [https://docs.spade-lang.org/agile/intro.html]
+  * Lab: [Spade Intro](https://docs.spade-lang.org/agile/intro.html)
  
 ### Week xx: Chisel in Research (Maybe)
 
