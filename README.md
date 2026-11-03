@@ -88,6 +88,7 @@ Experiences of using LLMs at Microchip.
 
  ### Week 9: Generators for Design Space Exploration
 
+ * [Slides](09_dse.pdf)
   * Lab: standup presentation (3 minutes per group, no slides), project work
 
  ### Week 10: Formal Verification (Amelia)
