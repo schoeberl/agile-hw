@@ -411,6 +411,13 @@ Note in particular the addition of the `bad` instruction in line 21, which encod
   There is a new `hbr` state that wasn't in the Timer. This additional state stands for "has been reset" and allows us to track if registers have been reset or not. This avoids the issue where our un-initialized garbage states might trivially violate our assertions, in that case we want to use our `reset` value as an initial value. "Has been reset" allows us to keep track of that process. 
 ]}
 
+Additionally to the conversion to BTOR2, several transformations have to happen _within the core dialects_ in order to support this conversion. 
+#figure(
+  image("btor2_transforms.pdf"),
+  caption: [Pipeline of compiler passes run in CIRCT's btor2 backend. These help convert the design into a form that is representable in BTOR2. Some of these passes are optional, as they will only be beneficial for some backend BMC tools and detrimental to others.]
+)<fig:btor2pipe>
+The different transforms in @fig:btor2pipe help convert the high-level logic, still present in the core dialects, into a form that can be easily representable as a state-transition system in BTOR2. Notably, things like memory port latencies get externalized, i.e. converted from _implicit_ latencies to explicit registers guarding the ports, and module hierarchies get flattened, as state-transition systems do not have any notion of modularity. These transformations are not free though, as they further mask the original user intent, and impact the efficiency of downstream solvers. Some techniques exist to counter this, such as _assume-guarantee reasoning_ which allows us to recover some notion of modularity using a well written specification.
+
 *Step 2:* Give our btor2 model to a bounded model checking tool using some state k. BMC tools, like `btormc`, unroll the design up until some parameter `k_max` and create the individual queries that are sent to SMT solvers like `bitwuzla`.
 
 *Step 3:* Parse the result and see if the BMC tool found a counter-example!
