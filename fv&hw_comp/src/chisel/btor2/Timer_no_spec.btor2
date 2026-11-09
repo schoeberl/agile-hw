@@ -1,0 +1,11 @@
+1 sort bitvec 1
+2 input 1 reset
+3 sort bitvec 3
+4 state 3 count
+5 constd 3 -1
+6 constd 3 1
+7 constd 3 0
+8 add 3 4 6
+9 eq 1 4 5
+10 ite 3 2 7 8
+11 next 3 4 10

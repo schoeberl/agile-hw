@@ -1,0 +1,25 @@
+1 sort bitvec 1
+2 input 1 reset
+3 sort bitvec 3
+4 state 3 count
+5 state 3 pastCount
+6 constd 1 0
+7 state 1 hbr
+8 init 1 7 6
+9 constd 3 1
+10 constd 3 0
+11 constd 3 -1
+12 add 3 4 9
+13 eq 1 4 11
+14 ult 1 5 4
+15 constd 1 -1
+16 or 1 2 7
+17 xor 1 2 15
+18 and 1 7 17
+19 implies 1 18 14
+20 not 1 19
+21 bad 20
+22 ite 3 2 10 12
+23 next 3 4 22
+24 next 3 5 4
+25 next 1 7 16
