@@ -34,6 +34,8 @@ Overall, the course will provide the students with a comprehensive understanding
 
  ## Lecture Plan
 
+ The source of the slides are part of the Chisel book [source](https://github.com/schoeberl/chisel-book) in folder [slides-agile](https://github.com/schoeberl/chisel-book/tree/master/slides-agile)
+
  ### Week 1: Agile and Scala
 
   * [Slides](01_scala.pdf)
@@ -114,12 +116,9 @@ Experiences of using LLMs at Microchip.
 ### Week xx: Spade, and Using Your Language in Agile Design (Frans)
 
   * [Slides](spade.pdf)
-  * Install Spade, see [Spade Setup](https://docs.spade-lang.org/agile/quick_setup.html)
-  * Lab: [Spade Intro](https://docs.spade-lang.org/agile/intro.html)
 
 ### Week xx: Chisel in Research (Maybe)
 
- * [Slides](tbd.pdf)
 
 ## Group Projects 2026
 
