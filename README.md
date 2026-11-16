@@ -101,7 +101,7 @@ Experiences of using LLMs at Microchip.
 
 ### Week 11: Mixed Topics
 
- * [Slides](11_mixed.pdf)
+ * [Slides](11_misc.pdf)
  * Standup presentation (2 minutes per group, no slides), project work
  * Lab: Project work
 
